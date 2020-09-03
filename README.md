@@ -1,1 +1,1 @@
-# Madaline_MLPPrediction_MLPClassifier_-Dimensionality-Reduction-
+# Madaline_MLPPrediction_MLPClassifier_Dimensionality-Reduction
